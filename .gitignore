@@ -1,0 +1,6 @@
+/data
+/log
+/train
+/train_summary
+.DS_Store
+*.pyc
